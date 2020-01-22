@@ -12,11 +12,15 @@ Also a lot of notation was refactored, as transposing every weight matrix every 
 
 [Assignment 3](Assignment3.ipynb): Numpy RNN with RTRL (Real time recurrent learning) with bias units - great for very long sequences, bad for big hidden sizes.
 
-[Assignment 4](assignment4.ipynb): LSTM
+[Assignment 4](assignment4.ipynb): Basic Numpy LSTM
+
+[Assignment 5](assignment4.ipynb): Character prediction pytorch LSTM without any pytorch-builtin LSTM-classes.
 
 
 ## Copyright statement
-This project is [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) - go crazy. Original author: github.com/rnbwdsh
+This project is [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) - go crazy.
+
+Original author: github.com/rnbwdsh
 
 
 ## Original copyright statement
@@ -26,5 +30,7 @@ parts, no matter whether in printed or in electronic form, requires explicit pri
 authors.*
 
 Therefore I deleted everything that legally qualifies as copyrightable "creative work" like the original assignment texts.
+
 Boilerplate code does not reach "creative height" and therefore not qualify as "creative work".
-Also, copyright doesn't apply in educational scnearios.
+
+Also, copyright doesn't apply in educational scenarios.
